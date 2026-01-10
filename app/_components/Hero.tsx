@@ -54,7 +54,7 @@ export default function Hero({ setActiveTab }: HeroProps) {
                             )}
                         >
                             <Image
-                                src="/avatar-p.png"
+                                src="/avatar.jpeg"
                                 alt="Profile photo"
                                 height={80}
                                 width={80}
