@@ -23,7 +23,9 @@ export default function Profile({ setActiveTab }: ProfileProps) {
                     </CardHeader>
                     <CardContent className="space-y-4">
                         <p className="text-muted-foreground leading-relaxed">
-                            AI Engineer & Full Stack Developer building real world LLM & RAG Powered applications. Focused on practical AI System, clean architecture and production ready solutions.
+I’m a Senior Software Engineer with 6+ years of MERN/MEAN stack experience, now focused on building intelligent applications powered by AI. I am passionate about applying Large Language Models (LLMs) to solve real-world problems, from AI-powered chatbots to text summarization tools. 
+
+Key focus areas: System design, AWS, Generative AI, LLMs (OpenAI, LLaMA), Full-Stack Development & AI Integration, Cloud (AWS).
                         </p>
                         <div className="flex gap-3 sm:gap-0 sm:items-center flex-col sm:flex-row  sm:space-x-4 text-sm text-muted-foreground">
                             <div className="flex items-center">
