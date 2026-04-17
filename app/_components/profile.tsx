@@ -23,7 +23,7 @@ export default function Profile({ setActiveTab }: ProfileProps) {
                     </CardHeader>
                     <CardContent className="space-y-4">
                         <p className="text-muted-foreground leading-relaxed">
-I’m a Senior Software Engineer with 6+ years of MERN/MEAN stack experience, now focused on building intelligent applications powered by AI. I am passionate about applying Large Language Models (LLMs) to solve real-world problems, from AI-powered chatbots to text summarization tools. 
+I’m a Senior Software Engineer with 7 years of MERN/MEAN stack experience, now focused on building intelligent applications powered by AI. I am passionate about applying Large Language Models (LLMs) to solve real-world problems, from AI-powered chatbots to text summarization tools. 
 
 Key focus areas: System design, AWS, Generative AI, LLMs (OpenAI, LLaMA), Full-Stack Development & AI Integration, Cloud (AWS).
                         </p>
