@@ -23,6 +23,7 @@ export const skills = [
   { name: "PostgreSQL", icon: Database, level: 85 },
   { name: "MongoDB", icon: Database, level: 80 },
   { name: "AWS", icon: Server, level: 75 },
+  { name: "Workato", icon: Code, level: 85 },
 ];
 
 export const projects = [
