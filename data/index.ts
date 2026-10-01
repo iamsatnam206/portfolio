@@ -77,6 +77,18 @@ export const projects = [
 ];
 
 export const experience = [
+    {
+    title: "Freelancer / Contractor with Senior / Team Lead role",
+    company: "Working directly with client",
+    period: "2026 - Present",
+    location: "Remote",
+    description:
+      "Worked over healthcare and logistics automation projects",
+    achievements: [
+      "Designed and shipped LLM-powered features (RAG + APIs) that automated manual workflows, reducing operational effort by 30–40%",
+      "Used Workato to automate the workflow and sequences"
+    ],
+  },
   {
     title: "Senior Full Stack Developer / Team Lead",
     company: "Talentelgia Technologies",
